@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "employee_name": "Tiger Nixon",
+    "employee_salary": 320800,
+    "employee_age": 61,
+    "email": "tiger@gmail.com",
+    "designation": "Developer",
+    "file": ""
+  },
+  {
+    "id": 2,
+    "employee_name": "Garrett Winters",
+    "employee_salary": 170750,
+    "employee_age": 63,
+    "email": "garrett@gmail.com",
+    "designation": "Tester",
+    "file": ""
+  },
+  {
+    "id": 3,
+    "employee_name": "Ashton Cox",
+    "employee_salary": 86000,
+    "employee_age": 66,
+    "email": "ashton@gmail.com",
+    "designation": "Analyst",
+    "file": ""
+  },
+  {
+    "id": 4,
+    "employee_name": "Cedric Kelly",
+    "employee_salary": 433060,
+    "employee_age": 22,
+    "email": "cedric@gmail.com",
+    "designation": "Data engineer",
+    "file": ""
+  },
+  {
+    "id": 5,
+    "employee_name": "Airi Satou",
+    "employee_salary": 162700,
+    "employee_age": 33,
+    "email": "airi@gmail.com",
+    "designation": "Software",
+    "file": ""
+  }
+]
